@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e7CRTMbCTEGYcIcT74oWSA" Reference="KWxMGTXoP0u7PO4xdaUHCQ/wkJPIpo4tkSedh1K7Nyhcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Customer-manageLineItems&amp;/?sap-iapp-state=ASLPLKDZYR5DGAURSNF4Z6YOLKXZJUDKQPAUBV6S" DesignTimeRectangle="1543, 326, 48, 48" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'Add Filter'" FullSelectorArgument="&lt;webctrl ui5-tooltip='Add Filter' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-tooltip='Add Filter' tag='BUTTON' type='' class='sapMBtnBase sapMBtn conditionAddBtnFloatRight' aaname='Add Filter' check:text='Add Filter' /&gt;" Guid="a503fbc9-ec07-445d-8c87-15e52602e89d" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAYAAADFeBvrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAACpSURBVGhD7dWxCYAwEEZhh9KBdBlHcAQ7B7CydqQ0EYWAhYXHnfIrr/ggRYq8hHBVSin/CUHqCFJHkDqC1BGkjiB1BKkjyGqc19x0/WFfX+2J9HjQMC25bvvDvr7aE4kgK4KcCLIiyImgszI0y4G9IoavK+h8+1G8r8gLWX3qD91BkBNBVgQ5EWT1u6AyfCOG5h2PB72NIHUEqSNIHUHqCFJHkDqCtKW8Aap+pe+M61OHAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3857ed117dd812cab07798ba4036d808.png" xmlns="">0mscWHTejPUKRv91BR4iqsA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-GaSLa8Hak2DTnnMxakxlA" Reference="GwFkll4RW06yaJpgfgPObg/-p9pLYj3zUm_eQuYxYEc3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-sp.orica.net/fiori#Customer-manageLineItems" DesignTimeRectangle="424, 333, 317, 39" DesignTimeScaleFactor="1.5" ElementType="InputBox" FriendlyName="'Company Code Box'" FullSelectorArgument="&lt;webctrl ui5-label='Company Code' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-label='Company Code' tag='DIV' type='' class='sapMInput sapMInputBase sapMInputBaseHasEndIcons sapMInputBaseHeightMargin sapMMultiInput' aaname='' /&gt;" Guid="c8fe9c3e-7521-4669-b293-84ffc0c60322" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Manage Customer Line Items*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ae4997d722b848ee9882f44bf60b9316.png" xmlns="">ae4997d722b848ee9882f44bf60b9316.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

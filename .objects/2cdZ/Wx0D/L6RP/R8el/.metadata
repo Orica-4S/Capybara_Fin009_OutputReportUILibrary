@@ -1,0 +1,14 @@
+﻿{
+  "Id": "R8eld7xQNk-Qob_MOrDnog",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/R8eld7xQNk-Qob_MOrDnog",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/L6RP7eIG9EKZNQPHNz-4fA",
+  "Name": "Check App State Manage Customer",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-09T05:44:23.372119Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:23.372119Z"
+}

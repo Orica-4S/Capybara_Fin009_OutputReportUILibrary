@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ds8HltGlWUG9EuN4nmKucw",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/ds8HltGlWUG9EuN4nmKucw",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/7F2KRvtRJU6p0iCly32R9A",
+  "Name": "Company Code Box",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-09T05:44:21.5419657Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:21.5419657Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

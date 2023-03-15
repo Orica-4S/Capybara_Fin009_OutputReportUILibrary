@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CwOoYmccCEaF8Q01MLsvBQ" Reference="KWxMGTXoP0u7PO4xdaUHCQ/iRGhIP1p8EGQ46LxQQylRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Customer-manageLineItems&amp;/?sap-iapp-state=ASLPLKDZYR5DGAURSNF4Z6YOLKXZJUDKQPAUBV6S" DesignTimeRectangle="215, 330, 360, 39" DesignTimeScaleFactor="1.5" ElementType="DropDown" FriendlyName="'Account GroupSelect'" FullSelectorArgument="&lt;webctrl ui5-label='Field:' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-label='Field:' tag='DIV' type='' class='sapMInputBase sapMInputBaseHeightMargin sapMComboBoxBase sapMComboBox sapMInputBaseHasEndIcons' aaname='' /&gt;" Guid="669c506e-570b-4216-aaa7-e4baa2b92fd3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="69af2fa0372a0e82afd62bad376f042b.png" xmlns="">0GRBEp1W-y0a8fDNt-UXu3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

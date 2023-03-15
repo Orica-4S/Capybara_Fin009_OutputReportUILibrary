@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-VYhUvITmU6xU4Eke2Q-Qg" Reference="GwFkll4RW06yaJpgfgPObg/hXVXdoKJkUyp5FhVp3s17A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-sp.orica.net/fiori#Customer-manageLineItems" DesignTimeRectangle="786, 336, 328, 39" DesignTimeScaleFactor="1.5" ElementType="DropDown" FriendlyName="'Status Box'" FullSelectorArgument="&lt;webctrl ui5-label='Status' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-label='Status' tag='DIV' type='' class='sapMSlt sapMSltDefault sapMSltHoverable sapMSltMinWidth sapMSltWithArrow' aaname='' /&gt;" Guid="3fdfbf6f-f2c4-42ed-b14f-15df578606ff" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Manage Customer Line Items*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0bb00a38d28bc007041d7acd2d83a64f.png" xmlns="">0bb00a38d28bc007041d7acd2d83a64f.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

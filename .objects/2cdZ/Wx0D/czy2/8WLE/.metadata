@@ -1,0 +1,14 @@
+﻿{
+  "Id": "8WLEIC-V8EqWDkCGE71G1g",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/8WLEIC-V8EqWDkCGE71G1g",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "Select View Dropdown",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2023-03-09T05:44:22.7361797Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:22.7361797Z"
+}

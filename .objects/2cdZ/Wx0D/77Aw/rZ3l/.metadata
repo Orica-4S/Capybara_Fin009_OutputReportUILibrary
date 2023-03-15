@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rZ3lfkJLvkSwRVoI2234MA",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/rZ3lfkJLvkSwRVoI2234MA",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/77AwuFOaBEajdG0oIIyxyA",
+  "Name": "Home BTN",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-09T05:44:23.0854769Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:23.0854769Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RXr4EUbvUEWdd5kreMSJhQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#GLAccount-displayGLLineItemReportingView&amp;/?sap-iapp-state=ASVA8UPGHFTXU09YGWW0B8LUT4YGG9A0R8HTAK95" DesignTimeRectangle="795, 456, 326, 43" DesignTimeScaleFactor="1.649999976158142" ElementType="InputBox" FriendlyName="'May contain tokens'" FullSelectorArgument="&lt;webctrl ui5-label='Ledger Fiscal Year' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-label='Ledger Fiscal Year' tag='DIV' type='' class='sapMInputBase sapMInputBaseHeightMargin sapMInput sapMMultiInput sapMInputBaseHasEndIcons' aaname='' /&gt;" Guid="69ab5578-42d2-4d9d-9bfd-2a66f91ebb7f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Display Line Items in General Ledger*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="92893b15b9633aeb7b65154031fd95af.png" xmlns="">06RvrUwWGE0ajz_4YS5O7kw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

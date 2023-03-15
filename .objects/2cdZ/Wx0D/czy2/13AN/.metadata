@@ -1,0 +1,14 @@
+﻿{
+  "Id": "13ANLx73z06jsyctxLHdJw",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/13ANLx73z06jsyctxLHdJw",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "Filter Row 2",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2023-03-09T05:44:22.4347402Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:22.4347402Z"
+}

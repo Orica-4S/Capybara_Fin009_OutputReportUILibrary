@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Vvcpb5Dg1Ey2Iz55glwaIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#GLAccount-displayGLLineItemReportingView" DesignTimeRectangle="1147, 356, 326, 43" DesignTimeScaleFactor="1.649999976158142" ElementType="InputBox" FriendlyName="'Open ItemsDDLB_STATUS_O…'" FullSelectorArgument="&lt;webctrl ui5-label='Status' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-label='Status' tag='DIV' type='' class='sapMSlt sapMSltDefault sapMSltMinWidth sapMSltHoverable sapMSltWithArrow' aaname='' /&gt;" Guid="21ea6836-768f-408d-bc03-e74bc4432c24" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Display Line Items in General Ledger*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="717985c84438e781604538e18acfe205.png" xmlns="">0NzPMsGsH6kev3yXxIpO0sQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

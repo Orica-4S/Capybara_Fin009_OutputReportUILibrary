@@ -1,0 +1,14 @@
+﻿{
+  "Id": "czy2eqkvgUS3ztHvOFxOzg",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/Wx0DRu0Fe02AhQ1om5rpuA",
+  "Name": "Manage customer Line Items Screen",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2023-03-09T05:44:21.8216383Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:21.8216383Z"
+}

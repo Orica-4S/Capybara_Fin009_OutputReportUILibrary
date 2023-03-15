@@ -1,0 +1,14 @@
+﻿{
+  "Id": "9ak3TmB4O0iirZUEvCxaOA",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/9ak3TmB4O0iirZUEvCxaOA",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "Date Range Box",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-09T05:44:21.9842853Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:21.9842853Z"
+}

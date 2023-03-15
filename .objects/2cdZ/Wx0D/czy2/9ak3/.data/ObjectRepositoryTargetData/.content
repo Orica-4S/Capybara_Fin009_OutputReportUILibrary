@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KBsO1dNhx0OpC9ZA39JtRQ" Reference="GwFkll4RW06yaJpgfgPObg/b9FmcsJsKUOvz_buqH3rxQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-sp.orica.net/fiori#Customer-manageLineItems&amp;/?sap-iapp-state=ASMH0OER5LPOULQK55UGDAJ8JV2RF9LVB1PFJFJI" DesignTimeRectangle="1149, 336, 331, 39" DesignTimeScaleFactor="1.5" ElementType="InputBox" FriendlyName="'Date Range Box'" FullSelectorArgument="&lt;webctrl ui5-label='Posting Date' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-label='Posting Date' tag='DIV' type='' class='sapMInput sapMInputBase sapMInputBaseHasEndIcons sapMInputBaseHeightMargin' aaname='' /&gt;" Guid="80c736d6-7d6b-442c-a42f-4667b34d2417" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Manage Customer Line Items*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="60f98ae03703b0e1f0bc30b5f8987c5e.png" xmlns="">60f98ae03703b0e1f0bc30b5f8987c5e.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

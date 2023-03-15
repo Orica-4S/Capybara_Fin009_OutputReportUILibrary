@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="D65Nt68SCketPT2icoy0kQ" Reference="KWxMGTXoP0u7PO4xdaUHCQ/8WLEIC-V8EqWDkCGE71G1g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Customer-manageLineItems" DesignTimeRectangle="511, 571, 56, 53" DesignTimeScaleFactor="1.649999976158142" ElementType="Button" FriendlyName="'Select View'" FullSelectorArgument="&lt;webctrl idx='2' ui5-tooltip='Select View' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' ui5-tooltip='Select View' type='' class='sapMBtnBase sapMBtn sapUICompVarMngmtTriggerBtn sapMTitleStyleH4' aaname='Select View' check:text='Select View' /&gt;" Guid="fd984f62-62d0-4fbf-aaf6-1bbbc47fb477" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADwAAAA5CAYAAABqMUjBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAF7SURBVGhD7dg9SwNBEMbx+VAqiL3fw6BiJ2IngoVgfGnUxviChWITRGNAG4MQEcSXSiEEtBAUbCKJCYnkrhh5DgQJG7iY3Q2MU/yrWRZ+HFfMUhAE/J9SsPQULD0FS0/B0lOw9BQsPQVLT8HSU7D0FCw9BUuPwjA0DqRGtXrDOOi0rcwlD42vcDp3x82m+Uw31RtfPLed5eHJNX54ejWeiRMVX97Zxlee3z3lvpEkD44tW0cDO7t5Et3fn0hy7rZgPBcnurgvWgF/VKo8urBvHd2KTR3lu7qXdrJXVsAI6ImlA2to21hEqeO8NTCyhXaBRdbBqFu0KyxyAkZ/RbvEImdg1CnaNRY5BaO4aB9YROc3BadgBPTUarot2hcW0ePzm3Mwaof2iUVUqtSMAxe1ovfOrnlmI+MNi7wvD7/RP/nCop5sS0BPrx9G0IHEYrR4+MCinu7DpXKVy5/+fimkLx7SU7D0FCw9BUtPwdJTsPQULD0FS0/Bsgv4Gz2e2ZDAyyTzAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="08599346e051a580a5a628038512c920.png" xmlns="">0qc-LuccwhUyWYU5I9RoGKg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

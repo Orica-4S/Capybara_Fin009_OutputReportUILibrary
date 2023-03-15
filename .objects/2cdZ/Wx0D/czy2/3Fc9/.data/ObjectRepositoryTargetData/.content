@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k8YCkCyoH0CMsTlh3Tckqg" Reference="GwFkll4RW06yaJpgfgPObg/Oz-UNMaVjUWV-whwQG1HbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Customer-manageLineItems&amp;/?sap-iapp-state=ASLPLKDZYR5DGAURSNF4Z6YOLKXZJUDKQPAUBV6S" DesignTimeRectangle="971, 206, 390, 48" DesignTimeScaleFactor="1.5" ElementType="ListItem" FriendlyName="'Filter BTN'" FullSelectorArgument="&lt;webctrl ui5-role='button' ui5p-text='Filter' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-role='button' ui5p-text='Filter' tag='LI' type='' class='sapMSegBBtn sapMSegBBtnFocusable' aaname='' check:text='Filter' /&gt;" Guid="19630d10-6d09-494e-9d5f-d65a4ac97afd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Manage Customer Line Items*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="824d65df064b7eff81248c1c4e9dfb34.png" xmlns="">824d65df064b7eff81248c1c4e9dfb34.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

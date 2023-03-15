@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5jSSYi6lTEukpx8VtnInbg" Reference="KWxMGTXoP0u7PO4xdaUHCQ/8kLz-CFHPkq7dXuf236t7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Action-search&amp;/top=20&amp;filter=%7B%22dataSource%22%3A%7B%22type%22%3A%22Category%22%2C%22id%22%3A%22%24%24APPS%24%24%22%2C%22label%22%3A%22Apps%22%2C%22labelPlural%22%3A%22Apps%22%7D%2C%22searchTerm%22%3A%22Manage%20Customer%20Line%20Items%22%2C%22rootCondition%22%3A%7B%22type%22%3A%22Complex%22%2C%22operator%22%3A%22And%22%2C%22conditions%22%3A%5B%5D%7D%7D" DesignTimeRectangle="368, 330, 290, 290" DesignTimeScaleFactor="1.649999976158142" FriendlyName="'Manage Customer'" FullSelectorArgument="&lt;webctrl ui5p-header='Manage Customer Line Items' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5p-header='Manage Customer Line Items' tag='DIV' type='' class='sapMGT sapMGTStateLoaded sapMGTScopeDisplay OneByOne sapMPointer' aaname='' check:text='Manage Customer Line Items' /&gt;" Guid="28825198-c255-479c-ac6d-8c1dc1406ee8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d80fbc8e17679d1612894aa79fa18871.png" xmlns="">0hqAAmkwsfES64ju759yt2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

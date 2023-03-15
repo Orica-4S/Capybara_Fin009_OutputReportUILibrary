@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RrniZDD-70Gdu0rbYNAkBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="439, 7, 36, 33" DesignTimeScaleFactor="1.5" ElementType="Button" FriendlyName="'push button Close'" FullSelectorArgument="&lt;ctrl name='Restore pages' role='alert' /&gt;&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Restore pages' role='alert' /&gt;&lt;ctrl name='Close' role='push button' automationid='' /&gt;" Guid="96101019-be43-47ee-a266-836976dc7a6d" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAlCAYAAAAwYKuzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAD1SURBVFhH7dY9CsJAEIZhb2phY62QQm+iBPQW/jYi3iO28Q4rn2QsAmF35pugxbxN2ECSh+wm7CT9eQFkCyBbANkCyKYCNs0zHc/XbmTrcLqktn11o3wq4O3+SNPZPG3rfXdG16befa7HfUpTT7E8RIuU63DUZFqDWqQVh8wfSSmSwSEzEOWQLA5RQDSE9MAhGoj6SC8ccgEiQS2rtRsOuQHRolp9kV65v0FBlv6CcrmuQZlWGXsgaWAfJ3khKeAQTvJAmoE5nMQiTcBSnMQg1UAtTrIiVUBsNi04SZCj7QexEwaSadQd9S8KIFsA2QLIFkCulN7vBoA3G/Pi6wAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_2' title='Restore pages' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="23f4dfb44be8e2756a80714bc8c562a8.png" xmlns="">0Qm-s576-Ck6gd-7zZ_WXcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

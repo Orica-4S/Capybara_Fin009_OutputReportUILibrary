@@ -1,0 +1,17 @@
+﻿{
+  "Id": "tN2K9hcGYkufchNJhL7sqg",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/tN2K9hcGYkufchNJhL7sqg",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/77AwuFOaBEajdG0oIIyxyA",
+  "Name": "Search Box",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-09T05:44:23.2069305Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:44:23.2069305Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
