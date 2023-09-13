@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pxHukTrcq0ywdapTV126CQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Action-search&amp;/top=20&amp;filter=%7B%22dataSource%22:%7B%22type%22:%22Category%22,%22id%22:%22$$APPS$$%22,%22label%22:%22Apps%22,%22labelPlural%22:%22Apps%22%7D,%22searchTerm%22:%22Manage%20Customer%20Line%20Items%22,%22rootCondition%22:%7B%22type%22:%22Complex%22,%22operator%22:%22And%22,%22conditions%22:%5B%5D%7D%7D" DesignTimeRectangle="227, 189, 176, 176" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Manage Customer'" FullSelectorArgument="&lt;webctrl ui5p-header='Manage Customer Line Items' aria-label='Manage Customer Line Items&amp;#xA;Tile' innertext='Manage Customer Line Items' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5p-header='Manage Customer Line Items' aria-label='Manage Customer Line Items&amp;#xA;Tile' innertext='Manage Customer Line Items' tag='A' type='' class='sapMGT sapMGTStateLoaded sapMGTScopeDisplay OneByOne sapMPointer' aaname='Manage Customer Line Items' check:text='Manage Customer Line Items' /&gt;" Guid="44e02b6c-993f-47d0-a362-110d9bacd16b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Search' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6a165684bbf0bc0bdbe12c9bbb24c95d.png" xmlns="">0YnVh2gXSwEGITBcTQLtcmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
