@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KTtr8W5c90C8_1C1jP2wYQ",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/KTtr8W5c90C8_1C1jP2wYQ",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/L6RP7eIG9EKZNQPHNz-4fA",
+  "Name": "Manage customer Line item Tile",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-06-20T03:56:34.649431Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-20T03:57:02.1953414Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
