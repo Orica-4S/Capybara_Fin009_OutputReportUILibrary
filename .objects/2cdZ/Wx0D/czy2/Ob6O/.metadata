@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Ob6OicVhbEehN_1ykOvBrg",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/Ob6OicVhbEehN_1ykOvBrg",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "ED1 Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-13T08:13:35.0281787Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-13T08:25:14.0305017Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

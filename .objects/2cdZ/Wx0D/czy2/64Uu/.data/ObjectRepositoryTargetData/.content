@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eyW6DNsFW0O9taAGTDpR9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="568, 191, 306, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Manage Customer Line Items' role='document' /&gt;&lt;ctrl name='Account Group' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Manage Customer Line Items' role='document' /&gt;&lt;ctrl name='Account Group' role='editable text' automationid='' /&gt;" Guid="3923c150-ad1b-4c84-a03f-bce6c840d53e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAATYAAAAcCAYAAADr/JNNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACjSURBVHhe7d2xCQJREEVR2zc01czMnkRsYd0CvizI9ODlHHjBNHDTOS2AmAnbtu/rdn+s8+VqZvbXm7AdUXu+3r8L4H9N2I7KARQIG5AjbECOsAE5wgbkCBuQI2xAjrABOcIG5AgbkCNsQI6wATnCBuQIG5AjbECOsAE5wgbkCBuQI2xAjrABOcIG5AgbkDNh834PqJiwbR8Pk82ssQkbQMNaX/L569WoY+KgAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='*Manage Customer Line Items*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fcee0775650a063d2f8177732ac34e05.png" xmlns="">0pD60G2_U2Ui-XMqKrZT5Nw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
