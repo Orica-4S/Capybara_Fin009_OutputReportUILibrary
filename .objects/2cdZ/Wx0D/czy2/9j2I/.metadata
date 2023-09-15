@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9j2Izp3AoUaDJvhVfu2F0A",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/9j2Izp3AoUaDJvhVfu2F0A",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "ED1 JournalEntryType Value",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-15T09:32:11.6743955Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-15T09:34:21.7294662Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

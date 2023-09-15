@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Yw_-ly4i0EK3Pbqa8X4Rbg",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/Yw_-ly4i0EK3Pbqa8X4Rbg",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "ED1 JE Created By Value",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-15T09:36:11.3244202Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-15T09:37:30.6078597Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

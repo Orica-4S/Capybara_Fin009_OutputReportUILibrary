@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XCfZyPjxP0ahMCSzW5Kw9g",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/XCfZyPjxP0ahMCSzW5Kw9g",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "Name": "ED1 Ok Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-15T09:41:28.0127904Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-15T09:42:37.2259222Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
