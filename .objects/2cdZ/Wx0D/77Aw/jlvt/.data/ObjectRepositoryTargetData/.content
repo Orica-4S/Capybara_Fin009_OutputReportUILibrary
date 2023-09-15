@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h03UAg-zjEia6MmKdXILTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-dt.orica.net/fiori#Shell-home" DesignTimeRectangle="589, 88, 111, 26" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'Loading...Loading...'" FullSelectorArgument="&lt;webctrl innertext='Loading...Loading...' ui5p-selectedKey='$$Loading$$' visibleinnertext='Loading...&amp;#xA;Loading...' /&gt;" FuzzySelectorArgument="&lt;webctrl innertext='Loading...Loading...' ui5p-selectedKey='$$Loading$$' visibleinnertext='Loading...&amp;#xA;Loading...' tag='DIV' type='' class='sapMSlt sapMSltDefault sapMSltDisabled sapMSltMinWidth sapMSltAutoAdjustedWidth sapMSltWithArrow searchSelect' aaname='' /&gt;" Guid="f33905a4-ff89-4cda-9045-71d35093141b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Home' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1202c72b368f7d1f56029799bc3f480d.png" xmlns="">065CzEH2CeEiAPB2aTBx8kg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

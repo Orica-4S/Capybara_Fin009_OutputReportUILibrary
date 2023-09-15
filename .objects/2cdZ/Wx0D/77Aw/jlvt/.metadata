@@ -1,0 +1,13 @@
+﻿{
+  "Id": "jlvtQG-MCU237m8omkuQHg",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/jlvtQG-MCU237m8omkuQHg",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/77AwuFOaBEajdG0oIIyxyA",
+  "Name": "Search option Loading",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-15T10:15:22.1590303Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-15T10:15:22.1590303Z"
+}
