@@ -1,16 +1,13 @@
 ﻿{
   "Id": "MCmS4qlXi0aZyUtZbUsJ8Q",
   "Reference": "tnutLbMXZk6h2u2iXlkr1A/MCmS4qlXi0aZyUtZbUsJ8Q",
-  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/czy2eqkvgUS3ztHvOFxOzg",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/L6RP7eIG9EKZNQPHNz-4fA",
   "Name": "ED1 DisplayLineItems Tile",
   "Type": "Element",
   "TaxonomyType": "Element",
-  "Created": "2023-09-20T09:18:01.9990693Z",
+  "Created": "2023-09-20T09:38:49.8295761Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-09-20T09:20:05.7629606Z",
-  "UpdatedBy": [
-    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
-  ]
+  "Updated": "2023-09-20T09:38:49.8295761Z"
 }

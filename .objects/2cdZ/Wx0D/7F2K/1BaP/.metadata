@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1BaPN9-tAkyL8qRnAi_bIA",
+  "Reference": "tnutLbMXZk6h2u2iXlkr1A/1BaPN9-tAkyL8qRnAi_bIA",
+  "ParentRef": "tnutLbMXZk6h2u2iXlkr1A/7F2KRvtRJU6p0iCly32R9A",
+  "Name": "ED1 Fiscal Year of Ledger",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-20T10:20:34.8107054Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-20T10:24:06.4002185Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
